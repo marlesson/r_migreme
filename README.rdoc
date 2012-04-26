@@ -1,8 +1,13 @@
-= r_migreme
+= RMigreme
 
-Description goes here.
+Ruby Gem API migre.me
 
-== Contributing to r_migreme
+== Feature
+
+* RMigreme.short(url)
+* RMigreme.redirect(url)
+
+== Contributing to RMigreme
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.

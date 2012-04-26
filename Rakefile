@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "r_migreme"
   gem.homepage = "http://github.com/marlesson/r_migreme"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "Ruby Gem API migre.me"
+  gem.description = "Ruby Gem API migre.me"
   gem.email = "marlessonsa@gmail.com"
   gem.authors = ["Marlesson"]
   # dependencies defined in Gemfile
