@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/r_migreme.rb",
+    "r_migreme.gemspec",
     "spec/r_migreme_spec.rb",
     "spec/spec_helper.rb"
   ]
